@@ -14,6 +14,6 @@
 <div align='center'><h3>Video Status</h3></div>
 <div align='center'>
 
-https://github.com/user-attachments/assets/236449f0-9ae0-445d-9e33-68e3f0a8201f
+
 
 </div>
