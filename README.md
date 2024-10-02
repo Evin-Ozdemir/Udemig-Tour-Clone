@@ -5,12 +5,12 @@
  <div>
 
 
-<div align='center'><h3📸 Project Demo</h3></div>
+<h3📸 Project Demo</h3>
+<h4>A quick preview of the Udemig Tour website. </h4>
+
 <div align='center'>
-A quick preview of the Udemig Tour website.
 
 ![Zight Recording 2024-09-25 at 01 31 08 AM](https://github.com/user-attachments/assets/f9716248-288b-485d-b1d5-207700e9ce34)
-
 
 </div>
 
