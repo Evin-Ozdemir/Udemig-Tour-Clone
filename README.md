@@ -5,7 +5,7 @@
  <div>
 
 
-<div align='center'><h3>Video Status</h3></div>
+<div align='center'><h3📸 Project Demo</h3></div>
 <div align='center'>
 A quick preview of the Udemig Tour website.
 
