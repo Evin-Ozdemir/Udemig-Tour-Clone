@@ -5,8 +5,8 @@
  <div>
 
 
-<h3>📸 Project Demo</h3>
-<h4>A quick preview of the Udemig Tour website. </h4>
+<h2>📸 Project Demo</h2>
+<p>A quick preview of the Udemig Tour website. </p>
 
 <div align='center'>
 
